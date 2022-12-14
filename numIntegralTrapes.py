@@ -1,5 +1,4 @@
 """trapesmetoden for bestemt integral av funksjonen 1/(x+x**2) i intervallet [1,2]."""
-
 a = 1   #øvre grense
 b = 2   #nedre grense
 n = 5   #delintervaller
